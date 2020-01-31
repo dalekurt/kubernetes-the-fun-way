@@ -18,9 +18,10 @@ This tutorial is intended for person who are interested in learning Kubernetes a
 
 ## Cluster Details
 - [Raspbian]()
-- [K3s]()
+- [K3s](https://k3s.io/)
 - [Helm](https://helm.sh)
-- [Rook]()
+- [Rook](https://rook.io/)
+- [FluxCD](https://fluxcd.io/)
 - [Argo Tunnel](https://github.com/cloudflare/cloudflare-ingress-controller)
 
 ## The Hardware
