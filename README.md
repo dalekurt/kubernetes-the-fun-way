@@ -40,4 +40,13 @@ Below is a list of the hardware that was kindly provided by Lunar Ops, Inc for t
 | 1 | [8 Piece Black Aluminum Heatsink for Raspberry Pi 3]() | This helps to reduce the head generated on the microchip surface |
 |  1 | Custom laser cut black arcylic | *Optional:* by Fabberz NYC (and template by Kasper Nissen) |
 
+# My Network Topology
+
+| IP | Description |
+| --- | --- |
+| 10.0.0.1 | Gateway (Ubiquiti EdgeRouter X) |
+| 10.0.0.10 | k3s master (master) |
+| 10.0.0.11 | k3s node (node-01) |
+| 10.0.0.12 | k3s node (node-02) |
+| 10.0.0.13 | k3s node (node-03) |
 
