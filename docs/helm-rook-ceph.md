@@ -1,4 +1,4 @@
-# Storage
+# Storage - Rook
 
 ![USB Storage](../assets/usb-drives.JPG)
 ```
@@ -11,7 +11,9 @@ sudo mount /dev/sda1 /data
 
 `df -H | less`
 
-`sudo vim /etc/fstab`
+```bash
+sudo vim /etc/fstab
+```
 
 ```
 /dev/sda1               /data           ext4    defaults        1 2
