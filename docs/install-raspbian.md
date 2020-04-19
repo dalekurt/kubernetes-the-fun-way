@@ -1,5 +1,5 @@
 # Install Raspbian
-
+> Note Rasbian is a 32-bit OS
 Download Raspbian
 
 Flash

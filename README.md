@@ -2,6 +2,8 @@
 
 # Kubernetes the fun way
 
+## Table of contents
+
 ![Hardware](assets/raspberry-pi-cluster.JPG)
 
 The last few years, I’ve had several thoughts about getting into hobbyist culture behind Raspberry Pi, but have no justification other than it being a fun project or for the share tinkering around. There has always been an interest in running a cluster, since I read about Raspberry Pi Cluster projects on blogs and watch several hours of YouTube videos, wishing I thought of that. Needless to say, this year (2019) would not pass me by without start a personal project. After an unplanned venture to TinkerSphere in New York City with a co-worker, I purchased my very first Raspberry Pi, which furthered my thoughts about building a cluster of Raspberry Pis to tinker with, so why not build a Kubernetes cluster.
